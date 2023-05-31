@@ -15,7 +15,7 @@ export default function Nav(props) {
             </li>
             <li className="nav-item">
               <Link className="nav-link active" aria-current="page" to="/team">Our Team</Link>
-            </li>s
+            </li>
             <li className="nav-item">
               <Link className="nav-link active" aria-current="page" to="/about">About</Link>
             </li>

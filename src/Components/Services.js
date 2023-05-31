@@ -12,7 +12,7 @@ export default function Services(props) {
                 <div className="card-body">
                   <h5 className="card-title">Web Designing</h5>
                   <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                  <a href="#" className="btn btn-primary">Go somewhere</a>
+                  {/* <a className="btn btn-primary">Go somewhere</a> */}
                 </div>
               </div></div>
             <div className="col-sm-12 col-md-4 col-lg-4 mb-3">
@@ -20,14 +20,14 @@ export default function Services(props) {
                 <div className="card-body">
                   <h5 className="card-title">Frontend Developer</h5>
                   <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                  <a href="#" className="btn btn-primary">Go somewhere</a>
+                  {/* <a className="btn btn-primary">Go somewhere</a> */}
                 </div>
               </div></div>
             <div className="col-sm-12 col-md-4 col-lg-4 "><div className="card">
                 <div className="card-body">
                   <h5 className="card-title">Bootstrap Experts</h5>
                   <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                  <a href="#" className="btn btn-primary">Go somewhere</a>
+                  {/* <a className="btn btn-primary">Go somewhere</a> */}
                 </div>
               </div></div>
         </div>
@@ -37,7 +37,7 @@ export default function Services(props) {
                 <div className="card-body">
                   <h5 className="card-title">Web Designing</h5>
                   <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                  <a href="#" className="btn btn-primary">Go somewhere</a>
+                  {/* <a className="btn btn-primary">Go somewhere</a> */}
                 </div>
               </div></div>
             <div className="col-sm-12 col-md-4 col-lg-4 ">
@@ -45,14 +45,14 @@ export default function Services(props) {
                 <div className="card-body">
                   <h5 className="card-title">Frontend Developer</h5>
                   <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                  <a href="#" className="btn btn-primary">Go somewhere</a>
+                  {/* <a className="btn btn-primary">Go somewhere</a> */}
                 </div>
               </div></div>
             <div className="col-sm-12 col-md-4 col-lg-4 "><div className="card">
                 <div className="card-body">
                   <h5 className="card-title">Bootstrap Experts</h5>
                   <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                  <a href="#" className="btn btn-primary">Go somewhere</a>
+                  {/* <a className="btn btn-primary">Go somewhere</a> */}
                 </div>
               </div>
             </div>

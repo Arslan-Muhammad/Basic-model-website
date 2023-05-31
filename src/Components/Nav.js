@@ -23,9 +23,6 @@ export default function Nav(props) {
               <Link className="nav-link active" aria-current="page" to="/contact">Contact</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link active" aria-current="page" to="/contact">Contact</Link>
-            </li>
-            <li className="nav-item">
               <Link className="nav-link active" aria-current="page" onClick={props.login}>
                 {props.status ? "Logout" : "Login"}</Link>
             </li>

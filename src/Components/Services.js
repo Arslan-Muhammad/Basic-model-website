@@ -1,7 +1,5 @@
 import React from 'react';
 export default function Services(props) {
-  // console.log(useMatch);
-  // let {url}= useMatch();
   return (
     <section className="service bg-light py-5" id="services">
     <div className="container py-5">
@@ -61,14 +59,6 @@ export default function Services(props) {
         </div>
         <div className='container mt-5'>
           <div className='row'>
-          {/* <div className='col-md-2'>
-            <ul>
-              <li><Link to = {`${url}`} className="btn btn-primary mb-2 buton">Blog</Link></li>
-              <li><Link to = {`${url}/1`} className="btn btn-primary mb-2 buton">Page 1</Link></li>
-              <li><Link to = {`${url}/2`}  className="btn btn-primary mb-2 buton">Page 2</Link></li>
-              <li><Link to = {`${url}/3`}  className="btn btn-primary buton">Page 3</Link></li>
-            </ul>
-          </div> */}
           <div className="col-md-8">
             <h2 className='text-center'>Blog</h2>
                 {props.children}

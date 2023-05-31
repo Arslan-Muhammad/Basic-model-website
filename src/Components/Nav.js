@@ -4,7 +4,7 @@ export default function Nav(props) {
   return (
     <nav className="navbar navbar-expand navbar-light bg-white">
       <div className="container-fluid ms-4">
-        <a className="navbar-brand fs-4" href="#">Web <sup><span className="text-primary">Dr</span></sup></a>
+        <Link className="navbar-brand fs-4" to="/">Web <sup><span className="text-primary">Dr</span></sup></Link>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0 text-center fs-5 ">
             <li className="nav-item">
@@ -15,7 +15,7 @@ export default function Nav(props) {
             </li>
             <li className="nav-item">
               <Link className="nav-link active" aria-current="page" to="/team">Our Team</Link>
-            </li>
+            </li>s
             <li className="nav-item">
               <Link className="nav-link active" aria-current="page" to="/about">About</Link>
             </li>
